@@ -1,6 +1,6 @@
 # Foundation
 
-This is the Foundation project.  We love making super awesome stuff, but even more we like to empower people to make changes on their own.  Feel free to fork and improve Foundation.
+This is the Foundation project.  I love making super awesome stuff, but even more we like to empower people to make changes on their own.  Feel free to fork and improve Foundation.
 
 ## Compass Project
 
