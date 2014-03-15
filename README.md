@@ -23,7 +23,7 @@ Foundation uses [Assemble.io](http://assemble.io) and [Grunt](http://gruntjs.com
 
 You'll want to clone the Foundation repo first and install all the dependencies. You can do this using the following commands:
 
-```
+``` 
 git clone git@github.com:zurb/foundation.git
 cd foundation
 npm install -g grunt-cli bower
